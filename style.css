@@ -1,0 +1,18 @@
+.imagem{
+        background-color: rgb(129, 26, 0);
+        padding: 23px;
+        margin: 22px;
+        font-size: 20px;
+        margin: 10px auto;
+        border-radius: 8px;
+        width: 400px;
+        box-sizing: border-box;
+    }
+div h1, p{
+    display: flex;
+    justify-content: start;
+    align-items:flex-start;
+}
+body{
+    background-image: image-set("https://i.ytimg.com/vi/H7Rol3vkqms/maxresdefault.jpg")
+}
